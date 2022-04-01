@@ -1,8 +1,8 @@
 {
   "name": "webpack-typescript-template",
   "version": "1.0.0",
-  "description": "dist/index.js",
-  "main": "index.js",
+  "description": "",
+  "main": "dist/index.js",
   "scripts": {
     "pack": "rimraf dist && webpack --progress",
     "watch": "rimraf dist && webpack --progress --watch"
